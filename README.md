@@ -4,6 +4,6 @@ Hier ist eine Sammlung von Speisen. Der Zweck dieses Repositoriums ist leckere, 
 
 Die Speisen sollten einfach, schnell, und mühelos sein, aber auch lecker. Mitbestimmung bei ähnlichen Rezepten oder bei der Markdown oder dem Repositorium selbst wird ermutigt.
 
+Vorschläge zur Struktur oder Präsentation des Repositoriums sind besonders Wilkommen.
 
-
- - [Thunfisch mit Reis](REZEPTE/Thunfish\ mit\ Reis.md) 
+ - [Thunfisch mit Reis](REZEPTE/ThunfishmitReis.md) 
