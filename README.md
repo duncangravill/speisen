@@ -6,4 +6,4 @@ Die Speisen sollten einfach, schnell, und mühelos sein, aber auch lecker. Mitbe
 
 Vorschläge zur Struktur oder Präsentation des Repositoriums sind besonders Wilkommen. Bitte einen Issue öffnen oder einen Pull Request machen.
 
- - [Thunfisch mit Reis](REZEPTE/ThunfishmitReis.md) 
+ - [Thunfisch mit Reis](REZEPTE/ThunfischmitReis.md) 
